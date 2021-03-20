@@ -1,0 +1,180 @@
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.exe
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.deps.json
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\staticwebassets\IdentityExample.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\staticwebassets\IdentityExample.StaticWebAssets.xml
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\scopedcss\bundle\IdentityExample.styles.css
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csproj.CopyComplete
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.genruntimeconfig.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.Views.dll
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.TagHelpers.input.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.TagHelpers.output.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorCoreGenerate.cache
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorTargetAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication And Authorization\Projects\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.exe
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.deps.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.Views.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\staticwebassets\IdentityExample.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\staticwebassets\IdentityExample.StaticWebAssets.xml
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\scopedcss\bundle\IdentityExample.styles.css
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.TagHelpers.input.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.TagHelpers.output.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorCoreGenerate.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorTargetAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csproj.CopyComplete
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section01 Authentication And Authorization\Basics\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.genruntimeconfig.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.exe
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.deps.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.Views.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\staticwebassets\IdentityExample.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\staticwebassets\IdentityExample.StaticWebAssets.xml
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\scopedcss\bundle\IdentityExample.styles.css
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.TagHelpers.input.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.TagHelpers.output.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorCoreGenerate.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorTargetAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csproj.CopyComplete
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.genruntimeconfig.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section02 Identity Authentication\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Account\Dashboard.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.exe
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.deps.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.Views.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\staticwebassets\IdentityExample.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\staticwebassets\IdentityExample.StaticWebAssets.xml
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\scopedcss\bundle\IdentityExample.styles.css
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.TagHelpers.input.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.TagHelpers.output.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorCoreGenerate.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Account\Dashboard.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.RazorTargetAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.csproj.CopyComplete
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.genruntimeconfig.cache
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Account\EmailVerification.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authentication and Authorization\Section03 Email Verification\IdentityExample\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs

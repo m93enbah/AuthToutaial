@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTokenAuthentication", "WebApiTokenAuthentication\WebApiTokenAuthentication.csproj", "{CA7DE89D-3511-42EC-8330-EAB99ABB3007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularApp", "AngularApp\AngularApp.csproj", "{A84FA2E4-FCCA-4C39-BC4D-677CDD662580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7DE89D-3511-42EC-8330-EAB99ABB3007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7DE89D-3511-42EC-8330-EAB99ABB3007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7DE89D-3511-42EC-8330-EAB99ABB3007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7DE89D-3511-42EC-8330-EAB99ABB3007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84FA2E4-FCCA-4C39-BC4D-677CDD662580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84FA2E4-FCCA-4C39-BC4D-677CDD662580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84FA2E4-FCCA-4C39-BC4D-677CDD662580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84FA2E4-FCCA-4C39-BC4D-677CDD662580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232D090C-FBA4-4962-96A1-F0F565EC7859}
+	EndGlobalSection
+EndGlobal
